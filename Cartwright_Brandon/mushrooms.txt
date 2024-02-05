@@ -1,0 +1,3 @@
+Best feature: odor Using: gini-Gain: 0.47
+Best feature: odor Using: entropy-Gain: 0.91
+Best feature: odor Using: misclassification-Gain: 0.47
